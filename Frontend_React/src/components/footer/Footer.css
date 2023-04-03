@@ -1,0 +1,42 @@
+.footer-in{
+background-image: linear-gradient(225deg, goldenrod 0%, rgb(168, 152, 59) 100%);
+color: rgb(0, 0, 0) ;
+margin-top: -23px;
+text-align: center;
+
+}
+.text-footer{
+    font-family: Inter;
+    letter-spacing: 0.55px;
+    font-size: 46px;
+    line-height: 28px;
+}
+.footer-in a{
+    color:#000000;
+    text-decoration: none;
+}
+.footer-in ul,li{
+display: inline-block;
+text-align: center;
+}
+
+.footer-in hr{
+width: 90%;
+margin-left: 10%;
+margin-right: 10%;
+margin-top: 2%;
+}
+.socialicons{
+    display: inline;
+    padding: 2px;
+    margin-left: 10px;
+}
+
+.socialicons:hover{
+    border-color: rgb(0, 18, 220);
+    box-shadow: 0 3px 18px 0 rgba(0, 0, 0, 0.25);
+}
+.footer-copyright{
+    padding-bottom: 10px;
+    
+}
